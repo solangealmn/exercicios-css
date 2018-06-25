@@ -1,0 +1,26 @@
+  body{
+    background-color: #2E8B57;
+  }
+  .linha-base{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid #fff;
+    width: 100%;
+    height: 800px;
+  }
+  .gol1{
+    border: 2px solid #fff;
+    width: 100%;
+    height: 800px;
+  }
+  .meio-campo{
+    width: 100%;
+    height: 800px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+  }
+  .gol2{
+    border: 2px solid #fff;
+    width: 100%;
+    height: 800px;
+  }

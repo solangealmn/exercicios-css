@@ -1,0 +1,204 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M0 64v640h1024v-640h-1024zM960 640h-896v-512h896v512zM672 768h-320l-32 128-64 64h512l-64-64z"
+        ],
+        "tags": [
+          "display",
+          "screen",
+          "monitor",
+          "computer",
+          "desktop",
+          "pc"
+        ],
+        "defaultCode": 59734,
+        "grid": 16,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "display, screen",
+        "name": "display",
+        "order": 2,
+        "id": 87,
+        "prevSize": 32,
+        "code": 59734
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 86
+    },
+    {
+      "icon": {
+        "paths": [
+          "M896 704v-512c0-35.2-28.8-64-64-64h-640c-35.2 0-64 28.8-64 64v512h-128v192h1024v-192h-128zM640 832h-256v-64h256v64zM832 704h-640v-511.886c0.034-0.040 0.076-0.082 0.114-0.114h639.77c0.040 0.034 0.082 0.076 0.116 0.116v511.884z"
+        ],
+        "tags": [
+          "laptop",
+          "computer",
+          "pc"
+        ],
+        "defaultCode": 59735,
+        "grid": 16,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "laptop, computer",
+        "name": "laptop",
+        "order": 3,
+        "id": 88,
+        "prevSize": 32,
+        "code": 59735
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 87
+    },
+    {
+      "icon": {
+        "paths": [
+          "M736 0h-448c-52.8 0-96 43.2-96 96v832c0 52.8 43.2 96 96 96h448c52.8 0 96-43.2 96-96v-832c0-52.8-43.2-96-96-96zM384 48h256v32h-256v-32zM512 960c-35.346 0-64-28.654-64-64s28.654-64 64-64 64 28.654 64 64-28.654 64-64 64zM768 768h-512v-640h512v640z"
+        ],
+        "tags": [
+          "mobile",
+          "cell-phone",
+          "handheld"
+        ],
+        "defaultCode": 59736,
+        "grid": 16,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "mobile, cell-phone",
+        "name": "mobile",
+        "order": 4,
+        "id": 89,
+        "prevSize": 32,
+        "code": 59736
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 88
+    },
+    {
+      "icon": {
+        "paths": [
+          "M768 0h-576c-35.2 0-64 28.798-64 64v896c0 35.2 28.798 64 64 64h576c35.2 0 64-28.8 64-64v-896c0-35.202-28.8-64-64-64zM480 977.782c-27.492 0-49.782-22.29-49.782-49.782s22.29-49.782 49.782-49.782 49.782 22.29 49.782 49.782-22.29 49.782-49.782 49.782zM768 832h-576v-704h576v704z"
+        ],
+        "tags": [
+          "mobile",
+          "cell-phone",
+          "handheld",
+          "tablet",
+          "phablet"
+        ],
+        "defaultCode": 59737,
+        "grid": 16,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "mobile2, cell-phone2",
+        "name": "mobile2",
+        "order": 5,
+        "id": 90,
+        "prevSize": 32,
+        "code": 59737
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 89
+    },
+    {
+      "icon": {
+        "paths": [
+          "M800 0h-640c-52.8 0-96 43.2-96 96v832c0 52.8 43.2 96 96 96h640c52.8 0 96-43.2 96-96v-832c0-52.8-43.2-96-96-96zM480 992c-17.672 0-32-14.326-32-32s14.328-32 32-32 32 14.326 32 32-14.328 32-32 32zM768 896h-576v-768h576v768z"
+        ],
+        "tags": [
+          "tablet",
+          "mobile"
+        ],
+        "defaultCode": 59738,
+        "grid": 16,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "tablet, mobile3",
+        "name": "tablet",
+        "order": 6,
+        "id": 91,
+        "prevSize": 32,
+        "code": 59738
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 90
+    },
+    {
+      "icon": {
+        "paths": [
+          "M981.188 288.108c-88.808-12.768-183.382-22.016-282.076-27.22l164.888-164.888-64-64-224.558 224.556c-21.006-0.368-42.156-0.556-63.442-0.556v0l-256-256-64 64 194.196 194.196c-120.922 4.242-236.338 14.524-343.386 29.912-27.532 107.726-42.81 226.752-42.81 351.892s15.278 244.166 42.804 351.89c143.642 20.652 302.34 32.11 469.196 32.11s325.55-11.458 469.188-32.11c27.534-107.724 42.812-226.75 42.812-351.89s-15.278-244.166-42.812-351.892zM863.892 874.594c-107.73 13.766-226.75 21.406-351.892 21.406s-244.166-7.64-351.892-21.406c-20.648-71.816-32.108-151.166-32.108-234.594 0-83.43 11.458-162.78 32.108-234.596 107.726-13.766 226.75-21.404 351.892-21.404 125.136 0 244.162 7.638 351.886 21.404 20.656 71.816 32.114 151.166 32.114 234.596 0 83.428-11.458 162.778-32.108 234.594z"
+        ],
+        "tags": [
+          "tv",
+          "television",
+          "show"
+        ],
+        "defaultCode": 59739,
+        "grid": 16,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "tv, television",
+        "name": "tv",
+        "order": 7,
+        "id": 92,
+        "prevSize": 32,
+        "code": 59739
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 91
+    }
+  ],
+  "height": 1024,
+  "metadata": {
+    "name": "icomoon"
+  },
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon"
+    },
+    "historySize": 50,
+    "showCodes": true,
+    "gridSize": 16
+  }
+}
